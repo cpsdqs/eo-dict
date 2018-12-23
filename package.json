@@ -1,0 +1,11 @@
+{
+  "name": "eo-dict",
+  "private": true,
+  "version": "1.0.0",
+  "description": "",
+  "author": "cpsdqs",
+  "license": "GPL-2.0",
+  "dependencies": {
+    "parse5": "^5.1.0"
+  }
+}
